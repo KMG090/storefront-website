@@ -1,4 +1,5 @@
 django
 django-debug-toolbar
 gunicorn
-django
+Hello my name is kmg
+Hello world!
