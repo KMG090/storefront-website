@@ -1,4 +1,4 @@
 django
 django-debug-toolbar
 gunicorn
-django
+some new thing
